@@ -1,11 +1,11 @@
 # Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges
 
 ```
-@inproceedings{xu2021rest,
-  title={REST: Relational Event-driven Stock Trend Forecasting},
-  author={Xu, Wentao and Liu, Weiqing and Xu, Chang and Bian, Jiang and Yin, Jian and Liu, Tie-Yan},
+@inproceedings{victor2021detecting,
+  title={Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges},
+  author={Victor, Friedhelm and Weintraud, Andrea Marie},
   booktitle={Proceedings of the Web Conference 2021},
-  pages={1--10},
+  pages={23--32},
   year={2021}
 }
 ```
