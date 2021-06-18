@@ -11,6 +11,5 @@
 ```
 
 links
-- [acm](https://dl.acm.org/doi/abs/10.1145/3442381.3450059)
-- [arXiv](https://arxiv.org/abs/2102.07372)
+- [acm](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3450059)
 - [video](https://www.youtube.com/watch?v=wLc77VX78OU)
