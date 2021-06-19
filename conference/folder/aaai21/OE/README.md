@@ -1,19 +1,17 @@
-# [Publications in AAAI 2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)
+# Universal Trading for Order Execution with Oracle Policy Distillation
 
+```
+@article{fang2021universal,
+  title={Universal Trading for Order Execution with Oracle Policy Distillation},
+  author={Fang, Yuchen and Ren, Kan and Liu, Weiqing and Zhou, Dong and Zhang, Weinan and Bian, Jiang and Yu, Yong and Liu, Tie-Yan},
+  journal={arXiv preprint arXiv:2103.10860},
+  year={2021}
+}
+```
 
-
-# Trading
-- [Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with
-Less Uncertainty](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/MSM/README.md)
-- [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank
-Approach](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/SHAN/README.md)
-- [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph
-Attention Networks](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/momentum/README.md)
-- [Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio
-Management](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/HRPM/README.md)
-- [Deep Portfolio Optimization via Distributional Prediction of Residual Factors](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/DPO/README.md)
-- [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio
-Management with Market Conditions Embedding](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/deeptrader/README.md)
+links
+- [arXiv](https://arxiv.org/abs/2103.10860)
+- [AAAI](https://www.aaai.org/AAAI21Papers/AAAI-3650.FangY.pdf)
 
 
 
