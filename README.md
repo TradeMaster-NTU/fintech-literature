@@ -1,8 +1,10 @@
 # Fintech Literature
 The repository contains links to
-- [Conference Publications](https://github.com/ai-gamer/fintech-literature/blob/main/conference/README.md)
-- [Journal Publications](https://github.com/ai-gamer/fintech-literature/blob/main/journal/README.md)
-- [Books & Surveys](https://github.com/ai-gamer/fintech-literature/blob/main/book&survey/README.md)
+- Conference Publications
+- Journal Publications
+- Books & Surveys
+- Useful Links
+in Fintech (especially quantitative finance). Publications are arranged in the reverse chronological order.
 
 - ## Artificial Intelligence Conferences
    * ### [WebConf](https://www2022.thewebconf.org/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/www21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/www20/README.md) 
