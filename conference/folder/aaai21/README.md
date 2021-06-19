@@ -14,6 +14,9 @@ Management](https://github.com/ai-gamer/fintech-literature/blob/main/conference/
 - [Deep Portfolio Optimization via Distributional Prediction of Residual Factors](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/DPO/README.md)
 - [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio
 Management with Market Conditions Embedding](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/deeptrader/README.md)
+- [Universal Trading for Order Execution with Oracle Policy Distillation](https://github.com/ai-gamer/fintech-literature/blob/main/conference/folder/aaai21/OE/README.md)
+
+
 
 
 
