@@ -4,6 +4,7 @@ The repository contains links to
 - Journal Publications
 - Books & Surveys
 - Useful Links
+- 
 in Fintech (especially quantitative finance). Publications are arranged in the reverse chronological order.
 
 - ## Artificial Intelligence Conferences
