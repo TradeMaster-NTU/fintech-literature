@@ -1,16 +1,15 @@
-# ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
-
+# Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with Less Uncertainty
 ```
-@inproceedings{asap_aaai20,
-  title     = {ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations},
-  author    = {Ekagra Ranjan and Soumya Sanyal and Partha Pratim Talukdar},
-  booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {5470--5477},
-  year      = {2020}
+@inproceedings{wang2021coupling,
+  title={Coupling Macro-Sector-Micro Financial Indicators for Learning Stock Representations with Less Uncertainty},
+  author={Wang, Guifeng and Cao, Longbing and Zhao, Hongke and Liu, Qi and Chen, Enhong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={5},
+  pages={4418--4426},
+  year={2021}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1911.07979)
-- [code](https://github.com/malllabiisc/ASAP)
-- [AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/5997)
+- [AAAI](https://www.aaai.org/AAAI21Papers/AAAI-7228.WangG.pdf)
