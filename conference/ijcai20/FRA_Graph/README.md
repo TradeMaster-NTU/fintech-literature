@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{yang2020financial,
+  title={Financial risk analysis for SMEs with graph-based supply chain mining},
+  author={Yang, Shuo and Zhang, Zhiqiang and Zhou, Jun and Wang, Yang and Sun, Wang and Zhong, Xingyu and Fang, Yanming and Yu, Quan and Qi, Yuan},
+  booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence},
+  pages={4661--4667},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/643)
