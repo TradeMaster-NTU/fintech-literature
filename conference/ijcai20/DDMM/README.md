@@ -8,4 +8,4 @@
 ```
 
 links
-- [AAAI](https://www.ijcai.org/Proceedings/2020/615)
+- [IJCAI](https://www.ijcai.org/Proceedings/2020/615)
