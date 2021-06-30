@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# The Squawk Bot: Joint Learning of Time Series and Text Data Modalities for Automated Financial Information Filtering
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
-  year={2020}
+@article{dang2019squawk,
+  title={" The Squawk Bot": Joint Learning of Time Series and Text Data Modalities for Automated Financial Information Filtering},
+  author={Dang, Xuan-Hong and Shah, Syed Yousaf and Zerfos, Petros},
+  journal={arXiv preprint arXiv:1912.10858},
+  year={2019}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [arxiv](https://arxiv.org/abs/1912.10858)
+- [IJCAI](https://www.ijcai.org/Proceedings/2020/634)
