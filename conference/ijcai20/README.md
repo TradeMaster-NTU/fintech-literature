@@ -36,5 +36,5 @@
 # Cryptocurrency
 - [BitcoinHeist: Topological Data Analysis for Ransomware Prediction on the Bitcoin Blockchain](https://github.com/ai-gamer/fintech-literature/blob/main/conference/ijcai20/BH/README.md)
 - [SEBF: A Single-Chain based Extension Model of Blockchain for Fintech](https://github.com/ai-gamer/fintech-literature/blob/main/conference/ijcai20/SEBF/README.md)
-- [Phishing Scam Detection on Ethereum: Towards Financial Security for Blockchain Ecosystem](https://github.com/ai-gamer/fintech-literature/blob/main/conference/ijcai20/ethreum/README.md)
+- [Phishing Scam Detection on Ethereum: Towards Financial Security for Blockchain Ecosystem](https://github.com/ai-gamer/fintech-literature/blob/main/conference/ijcai20/ethereum/README.md)
 - [Infochain: A Decentralized, Trustless and Transparent Oracle on Blockchain](https://github.com/ai-gamer/fintech-literature/blob/main/conference/ijcai20/oracle/README.md)
