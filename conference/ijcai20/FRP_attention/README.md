@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# Financial Risk Prediction with Multi-Round Q&A Attention Network
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{ye2020financial,
+  title={Financial Risk Prediction with Multi-Round Q\&A Attention Network.},
+  author={Ye, Zhen and Qin, Yu and Xu, Wei},
+  booktitle={IJCAI},
+  pages={4576--4582},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/631)
