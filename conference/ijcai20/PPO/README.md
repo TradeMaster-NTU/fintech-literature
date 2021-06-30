@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# An End-to-End Optimal Trade Execution Framework based on Proximal Policy Optimization
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{lin2020end,
+  title={An End-to-End Optimal Trade Execution Framework based on Proximal Policy Optimization.},
+  author={Lin, Siyu and Beling, Peter A},
+  booktitle={IJCAI},
+  pages={4548--4554},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [AAAI](https://www.ijcai.org/proceedings/2020/627)
