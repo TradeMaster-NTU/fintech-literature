@@ -1,14 +1,14 @@
-# Online Portfolio Selection with Cardinality Constraint and Transaction Costs based on Contextual Bandit
+# Interpretable Multimodal Learning for Intelligent Regulation in Online Payment Systems
 ```
-@inproceedings{zhu2020online,
-  title={Online Portfolio Selection with Cardinality Constraint and Transaction Costs based on Contextual Bandit.},
-  author={Zhu, Mengying and Zheng, Xiaolin and Wang, Yan and Liang, Qianqiao and Zhang, Wenfang},
-  booktitle={IJCAI},
-  pages={4682--4689},
+@article{wang2020interpretable,
+  title={Interpretable multimodal learning for intelligent regulation in online payment systems},
+  author={Wang, Shuoyao and Zhu, Diwei},
+  journal={arXiv preprint arXiv:2006.05669},
   year={2020}
 }
 
 ```
 
 links
-- [IJCAI](https://www.ijcai.org/proceedings/2020/646)
+- [arxiv](https://arxiv.org/abs/2006.05669)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/645)
