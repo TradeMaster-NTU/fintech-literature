@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# Infochain: A Decentralized, Trustless and Transparent Oracle on Blockchain
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
-  year={2020}
+@article{goel2019infochain,
+  title={Infochain: A decentralized, trustless and transparent oracle on blockchain},
+  author={Goel, Naman and van Schreven, Cyril and Filos-Ratsikas, Aris and Faltings, Boi},
+  journal={arXiv preprint arXiv:1908.10258},
+  year={2019}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [arXiv](https://arxiv.org/abs/1908.10258)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/635)
