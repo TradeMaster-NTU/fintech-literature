@@ -1,13 +1,14 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# A Quantum-inspired Entropic Kernel for Multiple Financial Time Series Analysis
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
-  year={2020}
+@inproceedings{bai2020quantum,
+  title={A Quantum-inspired Entropic Kernel for Multiple Financial Time Series Analysis},
+  author={Bai, Lu and Cui, Lixin and Wang, Yue and Jiao, Yuhang and Hancock, Edwin R},
+  booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI-20},
+  pages={4453--4460},
+  year={2020},
+  organization={International Joint Conferences on Artificial Intelligence Organization}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](A Quantum-inspired Entropic Kernel for Multiple Financial Time Series Analysis )
