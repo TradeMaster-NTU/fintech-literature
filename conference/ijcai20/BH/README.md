@@ -1,13 +1,12 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# BitcoinHeist: Topological Data Analysis for Ransomware Prediction on the Bitcoin Blockchain
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{akcora2020bitcoinheist,
+  title={Bitcoinheist: Topological data analysis for ransomware prediction on the bitcoin blockchain},
+  author={Akcora, C},
+  booktitle={Proceedings of the 2020 International Joint Conference on Artificial Intelligence (IJCAI)},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/612)
