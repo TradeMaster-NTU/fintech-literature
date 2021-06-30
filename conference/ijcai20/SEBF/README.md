@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# SEBF: A Single-Chain based Extension Model of Blockchain for Fintech
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{ji2020sebf,
+  title={SEBF: A Single-Chain based Extension Model of Blockchain for Fintech.},
+  author={Ji, Yimu and Gu, Weiheng and Chen, Fei and Xiao, Xiaoying and Sun, Jing and Liu, Shangdong and He, Jing and Li, Yunyao and Zhang, Kaixiang and Mei, Fen and others},
+  booktitle={IJCAI},
+  pages={4497--4505},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/620)
