@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# Phishing Scam Detection on Ethereum: Towards Financial Security for Blockchain Ecosystem
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{chen2020phishing,
+  title={Phishing Scam Detection on Ethereum: Towards Financial Security for Blockchain Ecosystem.},
+  author={Chen, Weili and Guo, Xiongfeng and Chen, Zhiguang and Zheng, Zibin and Lu, Yutong},
+  booktitle={IJCAI},
+  pages={4506--4512},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/621)
