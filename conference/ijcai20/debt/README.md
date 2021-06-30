@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# Two-stage Behavior Cloning for Spoken Dialogue System in Debt Collection
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{wang2020two,
+  title={Two-stage Behavior Cloning for Spoken Dialogue System in Debt Collection.},
+  author={Wang, Zihao and Liu, Jia and Cui, Hengbin and Jin, Chunxiang and Yang, Minghui and Wang, Yafang and Li, Xiaolong and Mao, Renxin},
+  booktitle={IJCAI},
+  pages={4633--4639},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/639)
