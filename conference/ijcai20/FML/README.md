@@ -1,13 +1,13 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# Federated Meta-Learning for Fraudulent Credit Card Detection
 ```
-@article{wang2020commission,
-  title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
-  author={Wang, Rundong and Wei, Hongxin and An, Bo and Feng, Zhouyan and Yao, Jun},
-  journal={arXiv preprint arXiv:2012.12620},
+@inproceedings{zheng2020federated,
+  title={Federated Meta-Learning for Fraudulent Credit Card Detection.},
+  author={Zheng, Wenbo and Yan, Lan and Gou, Chao and Wang, Fei-Yue},
+  booktitle={IJCAI},
+  pages={4654--4660},
   year={2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [IJCAI](https://www.ijcai.org/proceedings/2020/642)
