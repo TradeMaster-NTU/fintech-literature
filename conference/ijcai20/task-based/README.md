@@ -1,4 +1,4 @@
-# Commission Fee Is Not Enough: A Hierarchical Reinforced Framework for Portfolio Management
+# Task-Based Learning via Task-Oriented Prediction Network with Applications in Finance
 ```
 @article{wang2020commission,
   title={Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management},
@@ -9,5 +9,5 @@
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2012.12620)
-- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16142)
+- [arXiv](https://arxiv.org/abs/1910.09357)
+- [IJCAI](https://www.ijcai.org/Proceedings/2020/617)
