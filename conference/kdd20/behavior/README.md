@@ -1,16 +1,14 @@
-# ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+# Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction
 
 ```
-@inproceedings{asap_aaai20,
-  title     = {ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations},
-  author    = {Ekagra Ranjan and Soumya Sanyal and Partha Pratim Talukdar},
-  booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {5470--5477},
-  year      = {2020}
+@inproceedings{chen2019investment,
+  title={Investment behaviors can tell what inside: Exploring stock intrinsic properties for stock trend prediction},
+  author={Chen, Chi and Zhao, Li and Bian, Jiang and Xing, Chunxiao and Liu, Tie-Yan},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={2376--2384},
+  year={2019}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1911.07979)
-- [code](https://github.com/malllabiisc/ASAP)
-- [AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/5997)
+- [acm](https://dl.acm.org/doi/10.1145/3292500.3330663)
