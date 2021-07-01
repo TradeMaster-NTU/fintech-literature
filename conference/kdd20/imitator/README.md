@@ -1,4 +1,4 @@
-# Investor-Imitator: A Framework for Trading Knowledge Extraction (KDD18)
+# Investor-Imitator: A Framework for Trading Knowledge Extraction
 ```
 @inproceedings{ding2018investor,
   title={Investor-imitator: A framework for trading knowledge extraction},
