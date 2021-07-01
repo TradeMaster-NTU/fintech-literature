@@ -18,3 +18,6 @@ in Fintech (especially quantitative finance). Publications are arranged in the r
    * ### [ICDM](https://icdm2021.auckland.ac.nz/) - 2021 (Sep) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/public/icdm20/README.md)
 
 <br> </br>
+
+- ## NLP Conferences
+   * ### [Fintech in top NLP conferecnes](https://www.kdd.org/kdd2021/)
