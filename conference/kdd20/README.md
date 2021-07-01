@@ -1,4 +1,4 @@
-# [Publications in KDD 2021](https://kdd.org/kdd2021/accepted-papers/index)
+# [Publications in KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)
 
 
 
