@@ -1,16 +1,13 @@
-# ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
-
+# Investor-Imitator: A Framework for Trading Knowledge Extraction (KDD18)
 ```
-@inproceedings{asap_aaai20,
-  title     = {ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations},
-  author    = {Ekagra Ranjan and Soumya Sanyal and Partha Pratim Talukdar},
-  booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {5470--5477},
-  year      = {2020}
+@inproceedings{ding2018investor,
+  title={Investor-imitator: A framework for trading knowledge extraction},
+  author={Ding, Yi and Liu, Weiqing and Bian, Jiang and Zhang, Daoqiang and Liu, Tie-Yan},
+  booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1310--1319},
+  year={2018}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1911.07979)
-- [code](https://github.com/malllabiisc/ASAP)
-- [AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/5997)
+- [acm](https://dl.acm.org/doi/10.1145/3219819.3220113)
