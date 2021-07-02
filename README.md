@@ -27,4 +27,11 @@ in Fintech (especially quantitative finance). Publications are arranged in the r
 - ## Natural Language Processing Conferences
    * ### [Fintech in top NLP conferecnes](https://github.com/YangLinyi/FinNLP-Progress)
 
+<br> </br>
+
+- ## Finance Journal
+   * ### [Classic Papers](https://github.com/ai-gamer/fintech-literature/blob/main/journal/classic/README.md)
+   * ### [ML in finance](https://github.com/ai-gamer/fintech-literature/blob/main/journal/ml4finance/README.md)
+   * ### [Journal of Financial Data Science](https://github.com/ai-gamer/fintech-literature/blob/main/journal/jfds/README.md)
+
 
