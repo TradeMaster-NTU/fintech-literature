@@ -1,4 +1,4 @@
-# AI Journal Publications
+# Survey
 
-- [Temporal Relational Ranking for Stock Prediction (TOIS19)](https://github.com/ai-gamer/fintech-literature/blob/main/journal/aijournal/relation/README.md)
+- [Online Portfolio Selection: A Survey](https://github.com/ai-gamer/fintech-literature/blob/main/book&survey/survey/portfolio/README.md)
 
