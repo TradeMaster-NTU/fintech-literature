@@ -1,4 +1,4 @@
-# Regret Bounds for Online Portfolio Selection with a Cardinality Constraint. (Neurips18)
+# Regret Bounds for Online Portfolio Selection with a Cardinality Constraint (Neurips18)
 
 ```
 @inproceedings{ito2018regret,
