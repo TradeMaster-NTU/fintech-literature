@@ -1,11 +1,14 @@
-# A Two-level Reinforcement Learning Algorithm for Ambiguous Mean-variance Portfolio Selection Problem
+# An intertemporal capital asset pricing model
 ```
-@article{huangtwo,
-  title={A Two-level Reinforcement Learning Algorithm for Ambiguous Mean-variance Portfolio Selection Problem},
-  author={Huang, Xin and Li, Duan}
+@article{merton1973intertemporal,
+  title={An intertemporal capital asset pricing model},
+  author={Merton, Robert C},
+  journal={Econometrica: Journal of the Econometric Society},
+  pages={867--887},
+  year={1973},
+  publisher={JSTOR}
 }
-
 ```
 
 links
-- [IJCAI](https://www.ijcai.org/proceedings/2020/624)
+- [jstor](https://www.jstor.org/stable/1913811)
