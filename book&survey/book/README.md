@@ -1,4 +1,4 @@
-# AI Journal Publications
+# Book
 
-- [Temporal Relational Ranking for Stock Prediction (TOIS19)](https://github.com/ai-gamer/fintech-literature/blob/main/journal/aijournal/relation/README.md)
+- [Advances in financial machine learning](https://github.com/ai-gamer/fintech-literature/blob/main/book&survey/book/afml/README.md)
 
