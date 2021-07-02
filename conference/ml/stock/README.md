@@ -1,15 +1,16 @@
-# AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks
+# Can we learn to beat the best stock
 
 ```
-@inproceedings{wang2019alphastock,
-  title={Alphastock: A buying-winners-and-selling-losers investment strategy using interpretable deep reinforcement attention networks},
-  author={Wang, Jingyuan and Zhang, Yang and Tang, Ke and Wu, Junjie and Xiong, Zhang},
-  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1900--1908},
-  year={2019}
+@inproceedings{gogan2004can,
+  title={Can We Learn to Beat the Best Stock},
+  author={Gogan, Allan BorodinRan El-Yaniv2 Vincent},
+  booktitle={Advances in Neural Information Processing Systems 16: Proceedings of the 2003 Conference},
+  volume={16},
+  pages={345},
+  year={2004},
+  organization={MIT Press}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1908.02646)
-- [acm](https://dl.acm.org/doi/abs/10.1145/3292500.3330647?casa_token=sABhrOTWkzAAAAAA:ci0UbZdVUODh2QBLUQYS-ZboEOzP_i_ngx8LzvnWGxvIPEJopPewZLtHbBj01R_O1nkRkayX7h-L)
+- [neurips](https://papers.nips.cc/paper/2003/hash/8c9f32e03aeb2e3000825c8c875c4edd-Abstract.html)
