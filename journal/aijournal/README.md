@@ -1,4 +1,11 @@
-# AI Journal Publications
+# A Two-level Reinforcement Learning Algorithm for Ambiguous Mean-variance Portfolio Selection Problem
+```
+@article{huangtwo,
+  title={A Two-level Reinforcement Learning Algorithm for Ambiguous Mean-variance Portfolio Selection Problem},
+  author={Huang, Xin and Li, Duan}
+}
 
-- [Temporal Relational Ranking for Stock Prediction (TOIS19)](https://github.com/ai-gamer/fintech-literature/blob/main/journal/aijournal/relation/README.md)
+```
 
+links
+- [IJCAI](https://www.ijcai.org/proceedings/2020/624)
