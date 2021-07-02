@@ -1,15 +1,14 @@
-# AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks
+# Regret Bounds for Online Portfolio Selection with a Cardinality Constraint. (Neurips18)
 
 ```
-@inproceedings{wang2019alphastock,
-  title={Alphastock: A buying-winners-and-selling-losers investment strategy using interpretable deep reinforcement attention networks},
-  author={Wang, Jingyuan and Zhang, Yang and Tang, Ke and Wu, Junjie and Xiong, Zhang},
-  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1900--1908},
-  year={2019}
+@inproceedings{ito2018regret,
+  title={Regret bounds for online portfolio selection with a cardinality constraint},
+  author={Ito, Shinji and Hatano, Daisuke and Sumita, Hanna and Yabe, Akihiro and Fukunaga, Takuro and Kakimura, Naonori and Kawarabayashi, Ken-ichi},
+  booktitle={Proceedings of the 32nd International Conference on Neural Information Processing Systems},
+  pages={10611--10620},
+  year={2018}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1908.02646)
-- [acm](https://dl.acm.org/doi/abs/10.1145/3292500.3330647?casa_token=sABhrOTWkzAAAAAA:ci0UbZdVUODh2QBLUQYS-ZboEOzP_i_ngx8LzvnWGxvIPEJopPewZLtHbBj01R_O1nkRkayX7h-L)
+- [neurips](https://proceedings.neurips.cc/paper/2018/hash/6c1e55ec7c43dc51a37472ddcbd756fb-Abstract.html)
