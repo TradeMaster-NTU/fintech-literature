@@ -1,4 +1,4 @@
-# [AI Journal Publications]
+# AI Journal Publications
 
-- [Generating Realistic Stock Market Order Streams](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai20/OS/README.md)
+- [Temporal Relational Ranking for Stock Prediction (TOIS19)](https://github.com/ai-gamer/fintech-literature/blob/main/journal/aijournal/relation/README.md)
 
