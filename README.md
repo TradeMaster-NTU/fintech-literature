@@ -35,4 +35,9 @@ in Fintech (especially quantitative finance). Publications are arranged in the r
    * ### [ML in finance](https://github.com/ai-gamer/fintech-literature/blob/main/journal/ml4finance/README.md)
    * ### [Journal of Financial Data Science](https://github.com/ai-gamer/fintech-literature/blob/main/journal/jfds/README.md)
 
+<br> </br>
+
+- ## Survey & Book
+   * ### [Survey](https://github.com/ai-gamer/fintech-literature/blob/main/book&survey/survey/README.md)
+   * ### [Book](https://github.com/ai-gamer/fintech-literature/blob/main/book&survey/book/README.md)
 
