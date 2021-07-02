@@ -1,11 +1,16 @@
 # A Two-level Reinforcement Learning Algorithm for Ambiguous Mean-variance Portfolio Selection Problem
 ```
-@article{huangtwo,
-  title={A Two-level Reinforcement Learning Algorithm for Ambiguous Mean-variance Portfolio Selection Problem},
-  author={Huang, Xin and Li, Duan}
+@article{moskowitz2012time,
+  title={Time series momentum},
+  author={Moskowitz, Tobias J and Ooi, Yao Hua and Pedersen, Lasse Heje},
+  journal={Journal of financial economics},
+  volume={104},
+  number={2},
+  pages={228--250},
+  year={2012},
+  publisher={Elsevier}
 }
-
 ```
 
 links
-- [IJCAI](https://www.ijcai.org/proceedings/2020/624)
+- [paper](https://www.sciencedirect.com/science/article/pii/S0304405X11002613)
