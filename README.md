@@ -41,3 +41,10 @@ in Fintech (especially quantitative finance). Publications are arranged in the r
    * ### [Survey](https://github.com/ai-gamer/fintech-literature/blob/main/book&survey/survey/README.md)
    * ### [Book](https://github.com/ai-gamer/fintech-literature/blob/main/book&survey/book/README.md)
 
+<br> </br>
+
+- ## Userful Links
+   * ### [Qlib: An AI-oriented Quantitative Investment Platform](https://github.com/microsoft/qlib)
+   * ### [A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance.](https://github.com/AI4Finance-LLC/FinRL)
+
+
