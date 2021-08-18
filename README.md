@@ -25,7 +25,7 @@ in Fintech (especially quantitative finance). Publications are arranged in the r
 <br> </br>
 
 - ## Natural Language Processing Conferences
-   * ### [Fintech in top NLP conferecnes](https://github.com/YangLinyi/FinNLP-Progress)
+   * ### [Fintech in top NLP conferecnes](https://github.com/ai-gamer/fintech-literature/blob/main/conference/nlp/README.md)
 
 <br> </br>
 
