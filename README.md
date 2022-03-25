@@ -45,6 +45,6 @@ in Fintech (especially quantitative finance). Publications are arranged in the r
 
 - ## Userful Links
    * ### [Qlib: An AI-oriented Quantitative Investment Platform](https://github.com/microsoft/qlib)
-   * ### [A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance.](https://github.com/AI4Finance-LLC/FinRL)
+   * ### [FinRL: A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance.](https://github.com/AI4Finance-LLC/FinRL)
 
 
