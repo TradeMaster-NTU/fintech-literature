@@ -6,7 +6,7 @@ The repository contains links to
 - Useful Links
  
 in Fintech (especially quantitative finance). Publications are arranged in the reverse chronological order.
-
+- ## Reinforcement Learning in Trading
 - ## Artificial Intelligence Conferences
    * ### [WWW](https://www2022.thewebconf.org/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www20/README.md) 
    * ### [AAAI](https://aaai.org/Conferences/AAAI-22/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai20/README.md)
