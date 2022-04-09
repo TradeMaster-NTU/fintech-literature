@@ -7,13 +7,13 @@ The repository contains links to
  
 in Fintech (especially quantitative finance). Publications are arranged in the reverse chronological order.
 - ## Reinforcement Learning in Trading
-   * ### [Algorithmic Trading]
-   * ### [Portfolio Management]
-   * ### [Order Execution]
-   * ### [Market Making]
+   * ### [Algorithmic Trading](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/AT/README.md)
+   * ### [Portfolio Management](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/README.md)
+   * ### [Order Execution](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/OE/README.md)
+   * ### [Market Making](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/MM/README.md)
 - ## Artificial Intelligence Conferences
-   * ### [WWW](https://www2022.thewebconf.org/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www20/README.md) 
-   * ### [AAAI](https://aaai.org/Conferences/AAAI-22/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai20/README.md)
+   * ### [WWW](https://www2022.thewebconf.org/) - [2022](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www22/README.md) | [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www20/README.md) 
+   * ### [AAAI](https://aaai.org/Conferences/AAAI-22/) - [2022](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai22/README.md) | [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai20/README.md)
    * ### [IJCAI](https://ijcai-21.org/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/ijcai21/README.md) |  [2020 (Fintech Track)](https://github.com/ai-gamer/fintech-literature/blob/main/conference/ijcai20/README.md)
 
 <br> </br>
