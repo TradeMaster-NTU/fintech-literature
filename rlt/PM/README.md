@@ -1,0 +1,11 @@
+# Portfolio management
+- [Investor imitator: A framework for trading knowledge extraction](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/II/README.md)
+- [AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/AS/README.md) 
+- [Cost-Sensitive Portfolio Selection via Deep Reinforcement Learning](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/CS/README.md) 
+- [MAPS: Multi-agent Reinforcement Learning-based Portfolio Management System](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/MA/README.md) 
+- [Quantitative Day Trading from Natural Language using Reinforcement Learning](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/NL/README.md) 
+- [Reinforcement-Learning based Portfolio Management with Augmented Asset Movement Prediction States](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/AAMPS/README.md) 
+- [Relation-Aware Transformer for Portfolio Policy Learning](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/RA/README.md) 
+- [Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/CF/README.md) 
+- [Risk-Averse Trust Region Optimization for Reward-Volatility Reduction](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/RATR/README.md) 
+- [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/DT/README.md) 
