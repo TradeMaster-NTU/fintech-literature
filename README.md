@@ -7,10 +7,10 @@ The repository contains links to
  
 in Fintech (especially quantitative finance). Publications are arranged in the reverse chronological order.
 - ## Reinforcement Learning in Trading
-   * ### [Algorithmic Trading](https://github.com/ai-gamer/fintech-literature/blob/main/rl in trading/AT/README.md)
-   * ### [Portfolio Management](https://github.com/ai-gamer/fintech-literature/blob/main/rl in trading/PM/README.md)
-   * ### [Order Execution](https://github.com/ai-gamer/fintech-literature/blob/main/rl in trading/OE/README.md)
-   * ### [Market Making](https://github.com/ai-gamer/fintech-literature/blob/main/rl in trading/MM/README.md)
+   * ### [Algorithmic Trading]
+   * ### [Portfolio Management]
+   * ### [Order Execution]
+   * ### [Market Making]
 - ## Artificial Intelligence Conferences
    * ### [WWW](https://www2022.thewebconf.org/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/www20/README.md) 
    * ### [AAAI](https://aaai.org/Conferences/AAAI-22/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai21/README.md) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai20/README.md)
