@@ -1,5 +1,5 @@
 # Fintech Literature
-The repository contains links to
+The repository is maintained by [AMI](https://personal.ntu.edu.sg/boan/) at [Nanyang Technological University](https://www.ntu.edu.sg/), which contains:
 - Conference Publications
 - Journal Publications
 - Books & Surveys
