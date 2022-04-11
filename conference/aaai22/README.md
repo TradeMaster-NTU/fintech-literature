@@ -13,3 +13,5 @@ Autoencoder for Predicting Cross-sectional Stock Returns](https://github.com/ai-
 
 - [TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai22/TB/README.md)
 
+- [DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation](https://github.com/ai-gamer/fintech-literature/blob/main/conference/aaai22/DDG/README.md)
+
