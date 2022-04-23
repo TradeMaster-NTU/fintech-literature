@@ -1,5 +1,5 @@
 # Portfolio management
-- [Investor imitator: A framework for trading knowledge extraction](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/II/README.md)
+- [Investor imitator: A framework for trading knowledge extraction](https://github.com/ai-gamer/fintech-literature/tree/main/rlt/PM/II/README.md)
 - [AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/AS/README.md) 
 - [Cost-Sensitive Portfolio Selection via Deep Reinforcement Learning](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/CS/README.md) 
 - [MAPS: Multi-agent Reinforcement Learning-based Portfolio Management System](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/MA/README.md) 
