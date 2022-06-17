@@ -22,7 +22,7 @@ in Fintech (especially quantitative finance). Publications are arranged in the r
 
 <br> </br>
 - ## Data Mining Conferences
-   * ### [KDD](https://www.kdd.org/kdd2021/) - [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/kdd21/README.md) | [ Before 2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/kdd20/README.md) 
+   * ### [KDD](https://www.kdd.org/) - [2022](https://github.com/ai-gamer/fintech-literature/blob/main/conference/kdd22/README.md) | [2021](https://github.com/ai-gamer/fintech-literature/blob/main/conference/kdd21/README.md) | [ Before 2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/kdd20/README.md) 
    * ### [ICDM](https://icdm2021.auckland.ac.nz/) - 2021 (Sep) | [2020](https://github.com/ai-gamer/fintech-literature/blob/main/conference/public/icdm20/README.md)
 
 <br> </br>
