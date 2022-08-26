@@ -9,3 +9,4 @@
 - [Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/CF/README.md) 
 - [Risk-Averse Trust Region Optimization for Reward-Volatility Reduction](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/RATR/README.md) 
 - [DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/DT/README.md) 
+- [Gaussian Weighting Reversion Strategy for Accurate Online Portfolio Selection](https://github.com/ai-gamer/fintech-literature/blob/main/rlt/PM/GWRS/README.md)
